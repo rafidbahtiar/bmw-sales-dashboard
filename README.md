@@ -13,7 +13,7 @@ This project analyzes BMW sales data using ower BI.
 - Interactive slicers
 
 ## Preview
-![Dashboard Preview](Screenshot 2026-02-09 012004.png)
+![Dashboard Preview](Screenshot%202026-02-09%20012004.png)
 
 ## Author
 Rafid Arya Bahtiar
